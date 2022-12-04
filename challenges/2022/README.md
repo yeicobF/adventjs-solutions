@@ -1,6 +1,10 @@
 # adventJS 2022
 
+Challenges del AdventJS edición 2022 de [Midudev](https://github.com/midudev).
+
 ## Retos
+
+> **_Puntuación total actual:_** **560**
 
 | Reto                                                                                                    |        Resuelto        | Puntuación |   Mejor solución    |
 | :------------------------------------------------------------------------------------------------------ | :--------------------: | :--------: | :-----------------: |
