@@ -1,6 +1,7 @@
 # adventJS 2022
 
-Challenges del AdventJS edición 2022 de [Midudev](https://github.com/midudev).
+Challenges del [AdventJS edición 2022](https://adventjs.dev/es) de
+[Midudev](https://github.com/midudev).
 
 ## Retos
 
