@@ -5,7 +5,7 @@ const exampleGifts = ["cat", "game", "socks"]
 
 it("return type", () => {
   // https://vitest.dev/guide/testing-types.html
-  expectTypeOf(wrapping([])).toBeArray()
+  expect(wrapping([])).toBeTypeOf("object")
 })
 
 it("wrapping(exampleGifts)", () => {

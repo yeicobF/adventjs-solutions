@@ -5,7 +5,7 @@ const year = 2022
 const holidays = ["01/06", "04/01", "12/25"] // formato MM/DD
 
 it("return type", () => {
-  expectTypeOf(countHours(year, holidays)).toBeNumber()
+  expect(countHours(year, holidays)).toBeTypeOf("number")
 })
 
 it("countHours(2023, ['01/06', '04/01', '12/25'])", () => {
