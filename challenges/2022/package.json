@@ -1,0 +1,12 @@
+{
+  "name": "Solutions Advent.js challenges 2022",
+  "version": "1.0.0",
+  "description": "Challenges del [AdventJS edición 2022](https://adventjs.dev/es) de\r [Midudev](https://github.com/midudev).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

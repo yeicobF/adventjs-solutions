@@ -1,4 +1,4 @@
-function wrapping(gifts) {
+export function wrapping(gifts) {
   const wrapGifts = (gift) => {
     const outerWrapperLength = gift.length + 2
     const outerWrapper = "*".repeat(outerWrapperLength)
