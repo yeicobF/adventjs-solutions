@@ -1,4 +1,4 @@
-function countHours(year, holidays) {
+export function countHours(year, holidays) {
   /** 0: Domingo, 6: Sábado */
   const weekendDays = [0, 6]
 

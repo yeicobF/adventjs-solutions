@@ -1,4 +1,4 @@
-function distributeGifts(packOfGifts, reindeers) {
+export function distributeGifts(packOfGifts, reindeers) {
   const packOfGiftsWeigth = packOfGifts.reduce((accumulator, gift) => {
     return accumulator + gift.length
   }, 0)

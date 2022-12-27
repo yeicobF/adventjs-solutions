@@ -2,7 +2,7 @@
 // - 2261 ops/s
 // - Complejidad ciclomática: 1
 // - Mantenibilidad: 157%
-function fitsInOneBox(boxes) {
+export function fitsInOneBox(boxes) {
   return boxes
     .sort((a, b) => a.l - b.l)
     .map((currentBox, index, sortedBoxes) => {

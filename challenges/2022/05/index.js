@@ -1,4 +1,4 @@
-function getMaxGifts(giftsCities, maxGifts, maxCities) {
+export function getMaxGifts(giftsCities, maxGifts, maxCities) {
   
   return 0
 }
